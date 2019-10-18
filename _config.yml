@@ -1,3 +1,12 @@
-theme: jekyll-theme-cayman
-title : Welcome to the OpenSoftLab's homepage
-desctription : Feel free to bookmark this to keep an eye on my project updates
+# Site Settings
+locale                   : "ko"
+title                    : "Opensoftlab OSL ITS GitHub Blog"
+title_separator          : "-"
+name                     : "Opensoftlab"
+description              : "Opensoftlab의 Github Blog 페이지입니다. "
+url                      : https://jht3820.github.io
+# the base hostname & protocol for your site e.g."https://jht3820.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : jht3820/jht3820.github.io
+# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+~~~~~~~~~~~~~~~~~~
